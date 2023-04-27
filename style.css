@@ -1,0 +1,5 @@
+body {
+  perspective: 1500px;
+  display: flex;
+  justify-content: center;
+}
